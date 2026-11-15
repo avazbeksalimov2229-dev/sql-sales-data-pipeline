@@ -1,0 +1,2 @@
+# All SQL scripts are SQL Server (T-SQL)
+*.sql linguist-language=TSQL
