@@ -1,0 +1,127 @@
+SKU,ProductName,Category,SubCategory,UnitCost,ListPrice
+FUR-CHA-0001,Oakfield Mesh Office Chair Walnut,Furniture,Chairs,185.37,289.99
+FUR-CHA-0002,Northdesk Mesh Office Chair Black,Furniture,Chairs,151.73,210.99
+FUR-CHA-0003,Northdesk Ergonomic Task Chair Walnut,Furniture,Chairs,95.49,146.99
+FUR-CHA-0004,Northdesk Ergonomic Task Chair Black,furniture,Chairs,248.82,397.99
+FUR-CHA-0005,Northdesk Executive Leather Chair Walnut,furniture,Chairs,197.40,309.99
+FUR-CHA-0006,Oakfield Executive Leather Chair Black,Furniture,Chairs,,167.99
+FUR-CHA-0007,ErgoLine Stacking Guest Chair Walnut,Furniture,Chairs,153.52,$223.99
+FUR-CHA-0008,Northdesk Stacking Guest Chair White,Furniture,Chairs,271.24,$421.99
+FUR-CHA-0009,Oakfield Drafting Stool White,Furniture,Chairs,84.38,130.99
+FUR-CHA-0010,Oakfield Drafting Stool Black,Furniture,Chairs,74.32,$111.99
+FUR-DSK-0001,ErgoLine Standing Desk White,Furniture,Desks,338.64,$564.99
+FUR-DSK-0002,ErgoLine Standing Desk Walnut,Furniture,Desks,246.99,430.99
+FUR-DSK-0003,Northdesk Writing Desk Black,furniture,Desks,133.80,$212.99
+FUR-DSK-0004,Oakfield Writing Desk Walnut,Furniture,Desks,215.44,$334.99
+FUR-DSK-0005,Oakfield L-Shaped Desk Black,furniture,Desks,154.47,237.99
+FUR-DSK-0006,Oakfield L-Shaped Desk Walnut,Furniture,Desks,386.07,590.99
+FUR-DSK-0007,ErgoLine Compact Laptop Desk Black,furniture,Desks,388.10,$633.99
+FUR-DSK-0008,ErgoLine Compact Laptop Desk Walnut,Furniture,Desks,371.79,642.99
+FUR-TBL-0001,ErgoLine Conference Table Black,furniture,Tables,113.21,166.99
+FUR-TBL-0002,Northdesk Conference Table White,furniture,Tables,412.43,592.99
+FUR-TBL-0003,ErgoLine Folding Table White,Furniture,Tables,234.87,328.99
+FUR-TBL-0004,Northdesk Folding Table Black,furniture,Tables,482.30,$656.99
+FUR-TBL-0005,Oakfield Round Meeting Table Black,furniture,Tables,190.81,$273.99
+FUR-TBL-0006,ErgoLine Round Meeting Table White,Furniture,Tables,424.28,585.99
+FUR-TBL-0007,ErgoLine Coffee Table Walnut,Furniture,Tables,510.87,693.99
+FUR-TBL-0008,Northdesk Coffee Table Black,Furniture,Tables,96.17,128.99
+FUR-STO-0001,ErgoLine Filing Cabinet Black,Furniture,Storage,117.96,$208.99
+FUR-STO-0002,Oakfield Filing Cabinet White,Furniture,Storage,79.87,$135.99
+FUR-STO-0003,ErgoLine Bookcase White,furniture,Storage,179.48,295.99
+FUR-STO-0004,Oakfield Bookcase Black,furniture,Storage,98.65,166.99
+FUR-STO-0005,Oakfield Mobile Pedestal Black,Furniture,Storage,51.64,86.99
+FUR-STO-0006,ErgoLine Mobile Pedestal White,furniture,Storage,190.45,$315.99
+FUR-STO-0007,Northdesk Storage Cabinet Walnut,Furniture,Storage,211.29,355.99
+FUR-STO-0008,ErgoLine Storage Cabinet Black,furniture,Storage,46.18,$79.99
+OFF-PAP-0001,PaperPro Copy Paper Case Bulk,Office-Supplies,Paper,11.40,$19.99
+OFF-PAP-0002,Clearwrite Copy Paper Case,Office supplies,Paper,23.52,$39.99
+OFF-PAP-0003,PaperPro Premium Printer Paper,Office-Supplies,Paper,7.60,13.99
+OFF-PAP-0004,Clearwrite Premium Printer Paper Bulk,Office Supplies,Paper,7.60,12.99
+OFF-PAP-0005,OfficeMate Recycled Paper Ream Bulk,Office Supplies,Paper,8.97,$16.99
+OFF-PAP-0006,Clearwrite Recycled Paper Ream,Office Supplies,Paper,4.33,7.96
+OFF-PAP-0007,PaperPro Sticky Notes Pack,Office-Supplies,Paper,9.47,17.99
+OFF-PAP-0008,PaperPro Sticky Notes Pack Bulk,Office supplies,Paper,6.11,10.99
+OFF-BIN-0001,PaperPro Ring Binder,Office Supplies,Binders,6.27,$12.99
+OFF-BIN-0002,PaperPro Ring Binder Bulk,Office Supplies,Binders,9.96,$23.99
+OFF-BIN-0003,OfficeMate Presentation Binder Bulk,Office supplies,Binders,10.68,$21.99
+OFF-BIN-0004,PaperPro Presentation Binder,Office supplies,Binders,3.63,7.84
+OFF-BIN-0005,OfficeMate Binder Clips Box Bulk,Office Supplies,Binders,2.22,4.77
+OFF-BIN-0006,PaperPro Binder Clips Box,Office-Supplies,Binders,1.77,3.75
+OFF-WRI-0001,Clearwrite Gel Pen Set Bulk,Office-Supplies,Writing,2.07,4.16
+OFF-WRI-0002,PaperPro Gel Pen Set,Office Supplies,Writing,9.29,$17.99
+OFF-WRI-0003,Clearwrite Highlighter Pack,Office Supplies,Writing,2.05,4.20
+OFF-WRI-0004,OfficeMate Highlighter Pack Bulk,Office supplies,Writing,2.67,$5.45
+OFF-WRI-0005,Clearwrite Mechanical Pencil Set Bulk,Office-Supplies,Writing,11.81,24.99
+OFF-WRI-0006,Clearwrite Mechanical Pencil Set,Office-Supplies,Writing,5.10,$10.99
+OFF-WRI-0007,PaperPro Whiteboard Markers,Office Supplies,Writing,5.91,$10.99
+OFF-WRI-0008,PaperPro Whiteboard Markers Bulk,Office Supplies,Writing,6.90,13.99
+OFF-ORG-0001,PaperPro Desk Organizer Bulk,Office Supplies,Organizers,16.52,28.99
+OFF-ORG-0002,OfficeMate Desk Organizer,Office Supplies,Organizers,,35.99
+OFF-ORG-0003,OfficeMate Document Tray Bulk,Office Supplies,Organizers,8.39,14.99
+OFF-ORG-0004,Clearwrite Document Tray,Office-Supplies,Organizers,8.20,$14.99
+OFF-ORG-0005,Clearwrite Drawer Organizer Bulk,Office Supplies,Organizers,8.71,15.99
+OFF-ORG-0006,Clearwrite Drawer Organizer,Office Supplies,Organizers,22.21,$40.99
+OFF-LAB-0001,OfficeMate Shipping Labels,Office-Supplies,Labels,10.90,$21.99
+OFF-LAB-0002,Clearwrite Shipping Labels Bulk,Office Supplies,Labels,9.16,16.99
+OFF-LAB-0003,PaperPro File Folder Labels,Office supplies,Labels,13.07,$24.99
+OFF-LAB-0004,Clearwrite File Folder Labels Bulk,Office Supplies,Labels,18.50,$36.99
+OFF-LAB-0005,OfficeMate Label Maker Tape,Office supplies,Labels,17.75,33.99
+OFF-LAB-0006,OfficeMate Label Maker Tape Bulk,Office supplies,Labels,10.31,20.99
+TEC-MON-0001,Netcore 24in Full HD Monitor Pro,Technology,Monitors,505.20,$561.99
+TEC-MON-0002,Voltix 24in Full HD Monitor,Technology,Monitors,382.79,451.99
+TEC-MON-0003,Voltix 27in QHD Monitor,Technology,Monitors,466.05,$555.99
+TEC-MON-0004,Voltix 27in QHD Monitor Pro,Technology,Monitors,216.35,253.99
+TEC-MON-0005,Voltix 32in 4K Monitor Pro,Technology,Monitors,312.61,371.99
+TEC-MON-0006,Brightview 32in 4K Monitor,Technology,Monitors,283.27,$333.99
+TEC-MON-0007,Voltix Portable USB-C Monitor Pro,technology,Monitors,151.57,$184.99
+TEC-MON-0008,Voltix Portable USB-C Monitor,technology,Monitors,148.62,169.99
+TEC-ACC-0001,Voltix Wireless Mouse,technology,Accessories,37.89,$56.99
+TEC-ACC-0002,Brightview Wireless Mouse Pro,Technology,Accessories,46.25,63.99
+TEC-ACC-0003,Netcore Mechanical Keyboard,Technology,Accessories,31.30,43.99
+TEC-ACC-0004,Netcore Mechanical Keyboard Pro,Technology,Accessories,95.20,129.99
+TEC-ACC-0005,Netcore USB-C Hub,technology,Accessories,33.96,$45.99
+TEC-ACC-0006,Voltix USB-C Hub Pro,Technology,Accessories,18.39,26.99
+TEC-ACC-0007,Brightview HD Webcam Pro,technology,Accessories,18.53,25.99
+TEC-ACC-0008,Netcore HD Webcam,technology,Accessories,41.10,$55.99
+TEC-ACC-0009,Voltix Noise-Cancelling Headset Pro,technology,Accessories,109.86,160.99
+TEC-ACC-0010,Brightview Noise-Cancelling Headset,technology,Accessories,77.43,104.99
+TEC-PRN-0001,Netcore Laser Printer Pro,Technology,Printers,141.05,173.99
+TEC-PRN-0002,Netcore Laser Printer,Technology,Printers,359.23,452.99
+TEC-PRN-0003,Brightview Inkjet All-in-One,Tech,Printers,158.29,$200.99
+TEC-PRN-0004,Netcore Inkjet All-in-One Pro,Technology,Printers,123.02,$153.99
+TEC-PRN-0005,Netcore Label Printer,technology,Printers,189.15,$237.99
+TEC-PRN-0006,Netcore Label Printer Pro,Tech,Printers,288.36,362.99
+TEC-NET-0001,Brightview Wi-Fi Router Pro,Technology,Networking,155.95,206.99
+TEC-NET-0002,Brightview Wi-Fi Router,Tech,Networking,47.28,65.99
+TEC-NET-0003,Voltix 8-Port Network Switch,Technology,Networking,73.14,$94.99
+TEC-NET-0004,Voltix 8-Port Network Switch Pro,technology,Networking,41.21,52.99
+TEC-NET-0005,Netcore Mesh Wi-Fi Kit Pro,Technology,Networking,125.54,183.99
+TEC-NET-0006,Voltix Mesh Wi-Fi Kit,Tech,Networking,78.86,107.99
+TEC-PHO-0001,Netcore Desk IP Phone Pro,technology,Phones,161.55,$218.99
+TEC-PHO-0002,Brightview Desk IP Phone,Tech,Phones,108.26,143.99
+TEC-PHO-0003,Voltix Conference Speakerphone Pro,Technology,Phones,66.46,$89.99
+TEC-PHO-0004,Netcore Conference Speakerphone,Tech,Phones,125.92,$180.99
+HOM-LIG-0001,Lumen LED Desk Lamp Large,Home&Decor,Lighting,17.73,31.99
+HOM-LIG-0002,Casa Verde LED Desk Lamp,Home & Decor,Lighting,26.38,$47.99
+HOM-LIG-0003,Lumen Floor Lamp,Home&Decor,Lighting,20.65,37.99
+HOM-LIG-0004,Hearth Floor Lamp Large,Home & Decor,Lighting,38.88,$64.99
+HOM-LIG-0005,Lumen Pendant Light,Home&Decor,Lighting,48.71,$88.99
+HOM-LIG-0006,Lumen Pendant Light Large,Home and Decor,Lighting,65.76,$111.99
+HOM-RUG-0001,Lumen 5x7 Area Rug,Home and Decor,Rugs,47.87,81.99
+HOM-RUG-0002,Lumen 5x7 Area Rug Large,Home&Decor,Rugs,20.09,$32.99
+HOM-RUG-0003,Lumen Runner Rug,Home & Decor,Rugs,30.03,$47.99
+HOM-RUG-0004,Lumen Runner Rug Large,Home & Decor,Rugs,58.14,102.99
+HOM-RUG-0005,Lumen Office Chair Mat,Home & Decor,Rugs,47.00,84.99
+HOM-RUG-0006,Lumen Office Chair Mat Large,Home and Decor,Rugs,16.70,29.99
+HOM-KIT-0001,Casa Verde Coffee Maker Large,Home and Decor,Kitchen,79.16,143.99
+HOM-KIT-0002,Lumen Coffee Maker,Home&Decor,Kitchen,34.18,60.99
+HOM-KIT-0003,Casa Verde Electric Kettle,Home&Decor,Kitchen,80.22,$142.99
+HOM-KIT-0004,Lumen Electric Kettle Large,Home & Decor,Kitchen,78.37,$134.99
+HOM-KIT-0005,Hearth Water Dispenser Large,Home & Decor,Kitchen,33.67,$57.99
+HOM-KIT-0006,Lumen Water Dispenser,Home & Decor,Kitchen,77.13,128.99
+HOM-DEC-0001,Casa Verde Wall Clock Large,Home and Decor,Decor,18.77,33.99
+HOM-DEC-0002,Lumen Wall Clock,Home & Decor,Decor,46.15,87.99
+HOM-DEC-0003,Lumen Framed Wall Art,Home & Decor,Decor,,15.99
+HOM-DEC-0004,Hearth Framed Wall Art Large,Home & Decor,Decor,61.20,$102.99
+HOM-DEC-0005,Hearth Artificial Plant,Home & Decor,Decor,17.78,$34.99
+HOM-DEC-0006,Hearth Artificial Plant Large,Home and Decor,Decor,24.76,51.99
