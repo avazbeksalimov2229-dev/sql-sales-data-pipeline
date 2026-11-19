@@ -1,2 +1,5 @@
 # All SQL scripts are SQL Server (T-SQL)
 *.sql linguist-language=TSQL
+
+# Data generator: a helper script, kept out of the language statistics
+scripts/** linguist-detectable=false
